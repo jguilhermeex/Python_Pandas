@@ -1,1 +1,2 @@
-# Python_Pandas
+# Análise Exploratória em linguagem Python - Dataset da Netflix
+Biblioteca Pandas
