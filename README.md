@@ -9,9 +9,11 @@
 
 - Feedbacks são sempre bem vindos!😊
 
-# Objetivo
+# Objetivos
 
 - Realizar uma análise exploratória dos dados de um dataset simples da netflix para resumir suas principais características.
+  
+ # Etapas
 
 - Em primeiro lugar busquei entender os dados, linhas, colunas, o tamanho do dataset, o tipo dos dados, etc.
 - O segundo passo foi tratar os dados, removendo colunas irrelevantes e valores ausentes.
