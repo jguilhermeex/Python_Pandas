@@ -5,17 +5,16 @@
 
 # Introdução
 
-Este é meu primeiro projeto em Python voltado a análise de dados, no qual utilizei a biblioteca Pandas. Venho estudando a linguagem Python a cerca de 1 mês e pretendo seguir me aprofundando.
+Este é o meu primeiro projeto em Python voltado a análise de dados, no qual utilizei a biblioteca Pandas. Venho estudando a linguagem Python a cerca de 1 mês e pretendo seguir me aprofundando.
 
 Feedbacks são sempre bem vindos!😊
 
 # Objetivo
 
-- Realizar uma análise exploratória dos dados de um dataset simples da netflix para analisar e investigar conjuntos de dados e resumir suas principais características.
-
+- Realizar uma análise exploratória dos dados de um dataset simples da netflix para resumir suas principais características.
 
 # Dados
-Os dados utilizados são provenientes do curso de Python com foco em análise de dados do [Colt Steele - Clique Aqui](https://www.udemy.com/course/python-data-analysis-visualization/)
+Os dados utilizados são provenientes do curso de Python com foco em análise de dados do [Colt Steele - Clique Aqui (https://www.udemy.com/course/python-data-analysis-visualization/)
 
 # Ferramentas Utilizadas
 - Linguagem Python
@@ -23,6 +22,6 @@ Os dados utilizados são provenientes do curso de Python com foco em análise de
 - Biblioteca Pandas
 
 # Arquivo
-O arquivo pode ser visualizado neste repositório. [Clique aqui para visualizar](Netflix.ipynb)
+O arquivo do jupyter notebook com as análises pode ser visualizado neste repositório. [Clique aqui para visualizar](Netflix.ipynb)
 
 
