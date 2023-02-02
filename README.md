@@ -12,12 +12,6 @@
 # Objetivos
 
 - Realizar uma análise exploratória dos dados de um dataset simples da netflix para resumir suas principais características.
-  
- # Etapas
-
-- Em primeiro lugar busquei entender os dados, linhas, colunas, o tamanho do dataset, o tipo dos dados, etc.
-- O segundo passo foi tratar os dados, removendo colunas irrelevantes e valores ausentes.
-- O terceiro passo foi "plotar" os dados em gráficos para melhor visualização e compreensão para começar a perceber o seu comportamento.
 
 # Dados
 - Os dados utilizados são provenientes do curso de Python com foco em análise de dados do [Colt Steele - Clique Aqui ](https://www.udemy.com/course/python-data-analysis-visualization/)
