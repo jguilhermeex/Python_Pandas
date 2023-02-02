@@ -1,6 +1,7 @@
 # Análise Exploratória em linguagem Python - Dataset da Netflix
 
 <img src = 'netflix.jpg'>
+
 # Introdução
 
 Este é meu primeiro projeto em Python voltado a análise de dados, no qual utilizei a biblioteca Pandas. Venho estudando a linguagem Python á cerca de 1 mês e pretendo seguir me aprofundando.
