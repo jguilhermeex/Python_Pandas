@@ -5,7 +5,7 @@
 
 # Introdução
 
-Este é o meu primeiro projeto em Python voltado a análise de dados, no qual utilizei a biblioteca Pandas.Por ser meu primeiro projeto, decidi mante-lo simples e objetivo. Sou um grande entusiasta por análise de dados e recentemente comecei a estudar a linguagem Python, com foco na biblioteca Pandas. Pretendo seguir me aprofundando para realizar projetos maiores e mais complexos.
+Este é o meu primeiro projeto em Python voltado a análise de dados, no qual utilizei a biblioteca Pandas. Por ser meu primeiro projeto, decidi mante-lo simples e objetivo. Sou um grande entusiasta por análise de dados e recentemente comecei a estudar a linguagem Python, com foco na biblioteca Pandas. Pretendo seguir me aprofundando para realizar projetos maiores e mais complexos.
 
 Feedbacks são sempre bem vindos!😊
 
