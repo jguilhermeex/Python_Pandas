@@ -14,7 +14,7 @@ Feedbacks são sempre bem vindos!😊
 - Realizar uma análise exploratória dos dados de um dataset simples da netflix para resumir suas principais características.
 
 # Dados
-Os dados utilizados são provenientes do curso de Python com foco em análise de dados do [Colt Steele - Clique Aqui (https://www.udemy.com/course/python-data-analysis-visualization/)
+Os dados utilizados são provenientes do curso de Python com foco em análise de dados do [Colt Steele - Clique Aqui ](https://www.udemy.com/course/python-data-analysis-visualization/)
 
 # Ferramentas Utilizadas
 - Linguagem Python
