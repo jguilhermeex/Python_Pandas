@@ -21,7 +21,7 @@ Os dados utilizados são provenientes do curso de Python com foco em análise de
 - Jupyter Notebook
 - Biblioteca Pandas
 
-# Arquivo
-O arquivo do jupyter notebook com as análises pode ser visualizado neste repositório. [Clique aqui para visualizar](Netflix.ipynb)
+# Arquivo e Resultados
+O arquivo do Jupyter Notebook com as análises e resultados obtidos pode ser visualizado neste repositório. [Clique aqui para visualizar](Netflix.ipynb)
 
 
