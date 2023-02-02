@@ -1,6 +1,7 @@
-# Análise Exploratória em linguagem Python - Dataset da Netflix
+# Análise Exploratória em Linguagem Python - Dataset da Netflix
 
-<img src = 'netflix.jpg'>
+<div style="display: flex; justify-content: space-between;"> <br>
+<img align="center"height="350" alt="coding-time" width = 1000 src="netflix.jpg">
 
 # Introdução
 
@@ -13,10 +14,13 @@ Feedbacks são sempre bem vindos!😊
 - Realizar uma análise exploratória dos dados de um dataset simples da netflix para analisar e investigar conjuntos de dados e resumir suas principais características.
 
 
+# Dados
+Os dados utilizados são provenientes do curso de Python com foco em análise de dados do [Colt Steele - Clique Aqui](https://www.udemy.com/course/python-data-analysis-visualization/)
+
 # Ferramentas Utilizadas
 - Linguagem Python
 - Jupyter Notebook
-- Biblioteca Pandas Excel
+- Biblioteca Pandas
 
 # Arquivo
 O arquivo pode ser visualizado neste repositório. [Clique aqui para visualizar](Netflix.ipynb)
